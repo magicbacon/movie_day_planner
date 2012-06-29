@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+
+#banner {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font: small-caps 40px/40px "Times New Roman", serif;
+  color: #282;
+  text-align: center;
+}
+
+.outer_box {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 4px;
+  padding: 2px;
+  padding-bottom: 4px;
+  width: 60%;
+  background-color: green;
+  border-style: solid;
+  border-color: green;
+  border-radius: 15px;
+}
+
+.outer_box .box_title {
+  margin: 0;
+  padding: 0px;
+  padding-left: 10px;
+  height: 20px;
+  font: 16px Arial Black;
+  color: white;
+}
+
+.outer_box .box_content {
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  border-color: white;
+  background-color: white;
+  color: black;
+  text-align: left;
+  line-height: 140%;
+  font: medium "Times New Roman", serif;
+}
